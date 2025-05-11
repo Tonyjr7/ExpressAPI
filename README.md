@@ -27,8 +27,8 @@ A basic CRUD REST API built with Node.js and Express for managing items.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/express-items-api.git
-   cd NODEPROJECT
+   git clone https://github.com/Tonyjr7/ExpressAPI
+   cd ExpressAPI
 ````
 
 2. Install dependencies:
